@@ -1,0 +1,14 @@
+{
+  "name": "Rafli Septiana",
+  "email": "rafliseptian76434@gmail.com",
+  "password": "",
+  "secret": "SVA",
+  "database": {
+    "development": {
+      "uri": "mongodb+srv://rafli290902:rafli123@cluster0.lqgvzhg.mongodb.net/selsafica_db"
+    },
+    "production": {
+      "uri": "mongodb+srv://rafli290902:rafli123@cluster0.lqgvzhg.mongodb.net/selsafica_db"
+    }
+  }
+}
